@@ -1,2 +1,3 @@
 # my_study
-my study history
+## python study
+[4월 17일] (4월 17일.md) 
