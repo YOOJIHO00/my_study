@@ -42,8 +42,8 @@ not | 아니다
 ----|----
 True and True | True
 True and False | False
-False and True | 
-False and False |
+False and True | False
+False and False | False
 ### bool 자료형
 - True(참)
 - False(거짓)
