@@ -1,0 +1,31 @@
+# 4월 19일 학습내용
+## 리스트
+#### 리스트 작성
+- 슬라이싱
+- 인덱싱
+- append (추가하는 함수)
+- insert (인덱스, 원소)
+- remove (값)
+- pop(인덱스)
+- index(값)
+- sort( )
+- reverse( )
+- count(값)
+- +연산자
+- extend함수
+- * 연산자
+#### 실수형
+- float형
+-정수형
+- 실수형, 구동소수점수
+-실수형 변환 함수
+- float( )
+#### dictionary
+-dictionary (딕셔너리) 자료형
+-key-value 형태
+-key : value
+### value
+-value( )
+### items( )
+###get(key)
+###clear( )
