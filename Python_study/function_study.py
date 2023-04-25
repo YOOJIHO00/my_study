@@ -384,4 +384,3 @@ def print_stars(n):
           print()
           i += 1
 print_stars(4)
-
