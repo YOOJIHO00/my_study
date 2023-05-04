@@ -172,3 +172,4 @@
 # print(ab)
 
 # np.dot(a, b)  # 1차원 백터 공식문서에서는 2D(2차원) matmul로 돌아간다.
+# df.iloc[499]
